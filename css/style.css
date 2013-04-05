@@ -153,12 +153,12 @@ p {
 
 #what-is-it {
 	background-color: #f68f67;
-	background-image: url('../images/footprints.png');
-	color: #FFF;
+	background-image: url('../images/bgsperm.png');
+	color: #000;
 }
 
 #what-is-it h1 {
-	color: #FFF;
+	color: #000;
 	font-size: 3.8em;
 	font-weight: 700;
 	letter-spacing: -3px;
@@ -166,7 +166,7 @@ p {
 }
 
 #what-is-it h2 {
-	color: #FFF;
+	color: #000;
 	font-size: 2em;
 	font-weight: 400;
 	line-height: 0;
