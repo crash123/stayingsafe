@@ -341,15 +341,9 @@ p {
 		width: 25%;
 	}
 
-	img.floatleft { 
-    float: none; 
-    margin: 4px; 
-
-}
-	img.floatright { 
-    float: none; 
-    margin: 4px; 
-}
+	img {
+		float: none;
+	}
 
 	.slide {
 		background-attachment: fixed;
