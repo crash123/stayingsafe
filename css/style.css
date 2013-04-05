@@ -341,9 +341,13 @@ p {
 		width: 25%;
 	}
 
-	img {
-		float: none;
-	}
+	img.floatleft { 
+    float: none; 
+}
+
+	img.floatright { 
+    float: none; 
+}
 
 	.slide {
 		background-attachment: fixed;
