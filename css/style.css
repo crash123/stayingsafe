@@ -12,6 +12,16 @@ img {
 	max-width: 100%;
 }
 
+img.floatleft { 
+    float: left; 
+    margin: 4px; 
+
+}
+img.floatright { 
+    float: right; 
+    margin: 4px; 
+}
+
 a:link {
 	color: #f68f67;
 	text-decoration: none;
@@ -164,7 +174,8 @@ p {
 }
 
 #what {
-	text-align: center;
+	text-align: left;
+
 }
 
 #what span {
